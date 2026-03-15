@@ -42,7 +42,7 @@ svg {
 .header {
   width: 100%;
   height: 768px;
-  background-image: url("img/header-bg.jpg");
+  background-image: url("./img/header-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -174,15 +174,15 @@ svg {
 }
 
 .story_item:nth-child(1) {
-  background-image: url("img/story-1.png");
+  background-image: url("./img/story-1.png");
 }
 
 .story_item:nth-child(2) {
-  background-image: url("img/story-2.png");
+  background-image: url("./img/story-2.png");
 }
 
 .story_item:nth-child(3) {
-  background-image: url("img/story-3.png");
+  background-image: url("./img/story-3.png");
   margin-right: 0;
 }
 
@@ -355,7 +355,7 @@ svg {
 .get_in_touch {
   padding-top: 50px;
   height: 498px;
-  background-image: url("img/get_in_touch_bg.jpg");
+  background-image: url("./img/get_in_touch_bg.jpg");
 }
 
 .get_in_touch__inner {
